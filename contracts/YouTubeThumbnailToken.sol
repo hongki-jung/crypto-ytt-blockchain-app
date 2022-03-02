@@ -4,4 +4,5 @@ import "openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol";
 
 contract YouTubeThumbnailToken {
   
+  
 }
